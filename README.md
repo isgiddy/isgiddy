@@ -1,5 +1,4 @@
 ## Isabelle Giddy
-***
 
 Scientist 
 
